@@ -53,10 +53,10 @@ world！！！！！！！！！！
 #超链接技术
 
 ##网站链接<br>
-[ilibili弹幕网](www.bilibili.com “点击进入”)
+[ilibili弹幕网](www.bilibili.com "点击进入")
 
 ##图片链接<br>
-[!图片名字](C://Users//KIM//Desktop//KIM//picture//a.jpg “点击查看”)
+[!图片名字](C://Users//KIM//Desktop//KIM//picture//a.jpg "点击查看")
 
 
 tips：
